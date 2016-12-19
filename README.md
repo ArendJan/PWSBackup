@@ -1,5 +1,5 @@
 #backup
-De versie van op het moment van inleveren staat op [/arendjan/pwsBackup](PWSBackup)
+Dit is de versie van het moment van inleveren van het PWS, 12-12-2016(19-12-2016 pas deze backup gemaakt)
 # pws
 ProfielWerkStuk van AJ en Vinnii
 
